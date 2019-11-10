@@ -1,3 +1,0 @@
-# tensorflow2.0 教程
-
-本教程主要由tensorflow2.0官方教程的个人学习复现笔记整理而来，相比于使用tensorflow2.0实现尽可能多的模型，我个更加倾向于较为全面的tensorflow教程。本项目是基于该项目https://github.com/snowkylin/tensorflow-handbook的二次开发。主要是对某些内容进行增删，也直接开源了对应的.ipynb文件，方便读者使用。感谢作者给我的灵感。后续会按照该项目的目录做一份pytorch的教程，希望能帮助大家尽早掌握学习框架。不像参考项目能够针对初学者，该项目主要面对的是已经有一定基础的读者。
