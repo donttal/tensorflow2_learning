@@ -2,12 +2,12 @@
  * @Author: Hong Jing Li
  * @Date: 2019-11-10 21:05:54
  * @LastEditors: Hong Jing Li
- * @LastEditTime: 2019-11-10 21:51:14
+ * @LastEditTime: 2019-11-10 21:55:35
  * @Contact: lihongjing.more@gmail.com
  -->
 # tensorflow2_learning
 
-本项目是基于该项目https://github.com/snowkylin/tensorflow-handbook的二次开发。相比于使用tensorflow2.0实现尽可能多的模型，我个更加倾向于较为全面的tensorflow教程。
+本项目是基于[该项目](https://github.com/snowkylin/tensorflow-handbook)的二次开发。相比于使用tensorflow2.0实现尽可能多的模型，我个更加倾向于较为全面的tensorflow教程。
 
 不像参考项目能够针对初学者，该项目主要面对的是已经有一定基础的读者。所以我针对某些内容进行增删，也直接开源了对应的.ipynb文件，方便读者使用。
 
